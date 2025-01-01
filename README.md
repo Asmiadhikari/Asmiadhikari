@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm Asmi Adhikari — a passionate computer engineer exploring the world of software developemnt and AI!
 
-<!--
-**Asmiadhikari/Asmiadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 I love working on web development projects and exploring AI applications.
+- 🎓 I'm studying Computer Engineering at HCOE.
+- 🤝 I’m interested in open-source contributions and volunteering
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, C, C++, JavaScript
+- Frameworks: MERN stack, Django
+- Other: HTML, CSS, DSA, OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- 📫 Email: asmiadhikari508@gmail.com
+- 🌐 [LinkedIn](www.linkedin.com/in/asmi-adhikari)
