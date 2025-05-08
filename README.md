@@ -3,7 +3,7 @@ I'm Asmi Adhikari — a passionate computer engineer exploring the world of soft
 
 ## About Me
 - 💻 I love working on web development projects and exploring AI applications.
-- 🎓 I'm studying Computer Engineering at HCOE.
+- 🎓 I'm a Computer Engineer.
 - 🤝 I’m interested in open-source contributions and volunteering
 
 ## Skills
